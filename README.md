@@ -1,2 +1,4 @@
-# jaman
-This is my first git Repository
+# jaman Arian
+This is my first git Repository.
+Author - freelancer jaman 
+
